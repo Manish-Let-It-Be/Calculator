@@ -26,10 +26,10 @@ This app was developed to demonstrate fundamental Android development skills, in
 
 This repository contains the following files:
 
-1. **Interface.png**: A screenshot of the app’s interface showcasing the calculator layout.
-2. **Java.docx**: The Java source code for handling calculations and managing user input/output.
-3. **working.mp4**: A screen recording demonstrating the app's functionality in action.
-4. **xml.docx**: The XML layout code used to design the user interface in Android Studio.
+1. **Calc_Interface.png**: A screenshot of the app’s interface showcasing the calculator layout.
+2. **CalC Java.docx**: The Java source code for handling calculations and managing user input/output.
+3. **CalC Working.mp4**: A screen recording demonstrating the app's functionality in action.
+4. **CalC xml.docx**: The XML layout code used to design the user interface in Android Studio.
 
 ---
 
@@ -46,7 +46,7 @@ This repository contains the following files:
 
 Click on the picture to see the video...
 
-[![Calculator Interface](CalCInterface.png)](CalCWorking.mp4)
+[![Watch the video](Calc_Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
 
 ---
 
