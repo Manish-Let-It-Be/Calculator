@@ -46,7 +46,11 @@ This repository contains the following files:
 
 Click on the picture to see the video...
 
-[![Watch the video](Calc_Interface.png)](https://drive.google.com/file/d/1Ud73fNfY8yWVKY-8SpdNMsaDTh1lWD7h/view?usp=sharing)
+<!--[![Watch the video](Calc_Interface.png)](https://drive.google.com/file/d/1Ud73fNfY8yWVKY-8SpdNMsaDTh1lWD7h/view?usp=sharing)-->
+
+<a href="https://drive.google.com/file/d/1Ud73fNfY8yWVKY-8SpdNMsaDTh1lWD7h/view?usp=sharing">
+    <img src="Calc_Interface.png" alt="Watch the video" height="350">
+</a>
 
 ---
 
