@@ -46,7 +46,7 @@ This repository contains the following files:
 
 Click on the picture to see the video...
 
-[![Watch the video](Calc Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
+[![Watch the video](Calc_Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
 
 ---
 
