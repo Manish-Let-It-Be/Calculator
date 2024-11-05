@@ -1,6 +1,6 @@
 # Calculator App
 
-Welcome to the Calculator App, a simple calculator developed in Java using Android Studio! This app features a user-friendly interface that allows users to perform basic arithmetic operations.
+Welcome to the Calculator App, A simple Calculator App developed in Android Studio using Java! This app features a user-friendly interface that allows users to perform basic arithmetic operations.
 
 ---
 
